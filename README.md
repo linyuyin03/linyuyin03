@@ -46,13 +46,13 @@ Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engi
 
 Personal portfolio website showcasing my background, technical skills, experience, projects, and interactive web features.
 
-[💻 GitHub Repository](https://github.com/linyuyin03/yuyin-portfolio)
+[🌐 Live Website](https://linyuyin03.github.io/yuyin-portfolio/) | [💻 GitHub Repository](https://github.com/linyuyin03/yuyin-portfolio)
 
 ### 💻 Personal Website
 
 A personal website project showcasing my web development work and portfolio content.
 
-[💻 GitHub Repository](https://github.com/linyuyin03/personal-website)
+[🌐 Live Website](https://linyuyin03.github.io/personal-website/) | [💻 GitHub Repository](https://github.com/linyuyin03/personal-website)
 
 </details>
 </details>
