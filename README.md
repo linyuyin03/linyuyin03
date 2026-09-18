@@ -40,6 +40,7 @@ Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engi
 
 <!-- Featured Projects -->
 <details open>
+<!--
 <summary><h2>🚀 Featured Projects</h2></summary>
 
 ### 🌐 Yuyin Portfolio
@@ -85,5 +86,5 @@ A personal website project showcasing my web development work and portfolio cont
     height="165"
   />
 </p>
-
+-->
 </details>
