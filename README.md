@@ -30,12 +30,37 @@
 </p>
 
 <!-- Third-person Self Introduction -->
-<p align="left">
-<b>Yuyin Lin</b> — Master’s student in <b>Geographic Information Science &amp; Technology (GIST)</b> at the <b>University of Southern California</b> (USC), Los Angeles, CA.<br>
-Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engineer internships.<br>
-🛠️ Focus areas: full-stack development, data engineering, machine learning; experienced with React/Node/Python, Docker, AWS/Azure, and modern data stacks.<br>
-📚 Previously built a full-stack RAG system (React + FastAPI + Milvus/Elasticsearch + Redis/MinIO/PostgreSQL) and a real-time collaborative web platform (Vue + Django + WebSocket + Docker).<br>
-📫 Reach me at <a href="mailto:linyuyin03@gmail.com">linyuyin03@gmail.com</a> · GitHub <a href="https://github.com/linyuyin03">@linyuyin03</a> · LinkedIn <a href="https://www.linkedin.com/in/yuyin-lin-7377b4361/">/in/yuyin-lin-7377b4361</a>.
+<p>
+  <strong>Yuyin Lin</strong> — Master’s student in 
+  <strong>Geographic Information Science &amp; Technology (GIST)</strong> 
+  at the <strong>University of Southern California</strong> (USC), Los Angeles, CA, 
+  expected to graduate in <strong>May 2027</strong>.
+</p>
+
+<p>
+  Actively seeking <strong>2027 New Grad</strong> opportunities in 
+  <strong>Software Engineering / Machine Learning Engineering</strong>.
+</p>
+
+<p>
+  🛠️ Focus areas: AI/LLM applications, full-stack development, machine learning, 
+  and scalable data systems; experienced with Python, Java, JavaScript/TypeScript, 
+  React, Django/FastAPI, Docker, Kubernetes, AWS/Azure, and modern databases.
+</p>
+
+<p>
+  🤖 Previously built an end-to-end <strong>LLM-powered transaction agent</strong> 
+  with evaluation and recovery pipelines, a full-stack <strong>RAG system</strong> 
+  using React + FastAPI + Milvus/Elasticsearch + Redis/MinIO/PostgreSQL, 
+  and a scalable <strong>real-time collaboration platform</strong> using 
+  Vue + Django + WebSocket + Redis/MongoDB.
+</p>
+
+<p>
+  📫 Reach me at 
+  <a href="mailto:linyuyin03@gmail.com">linyuyin03@gmail.com</a> · 
+  GitHub <a href="https://github.com/linyuyin03">@linyuyin03</a> · 
+  LinkedIn <a href="https://www.linkedin.com/in/yuyin-lin-7377b4361/">/in/yuyin-lin-7377b4361</a>.
 </p>
 
 <!-- Featured Projects -->
