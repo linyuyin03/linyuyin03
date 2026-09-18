@@ -40,7 +40,6 @@ Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engi
 
 <!-- Featured Projects -->
 <details open>
-<!--
 <summary><h2>🚀 Featured Projects</h2></summary>
 
 ### 🌐 Yuyin Portfolio
@@ -70,7 +69,8 @@ A personal website project showcasing my web development work and portfolio cont
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=linyuyin03&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
 
- <!-- GitHub Profile Stats & Top Languages -->
+<!-- GitHub Profile Stats & Top Languages
+
 <h3>💻 GitHub Profile Stats</h3>
 
 <p align="center">
@@ -86,5 +86,6 @@ A personal website project showcasing my web development work and portfolio cont
     height="165"
   />
 </p>
+
 -->
 </details>
