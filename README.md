@@ -40,47 +40,20 @@ Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engi
 
 <!-- Featured Projects -->
 <details open>
-  <summary><h2>🚀 Featured Projects</h2></summary>
+<summary><h2>🚀 Featured Projects</h2></summary>
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+### 🌐 Personal Portfolio Website
 
-    <div style="width: 400px;">
-      <h3>🌐 Personal Portfolio Website</h3>
-      <p>
-        Personal portfolio showcasing my background, technical skills,
-        experience, projects, and interactive Geo Journey map.
-      </p>
+Personal portfolio showcasing my background, technical skills, experience, projects, and interactive Geo Journey map.
 
-      <p>
-        <a href="https://linyuyin03.github.io/yuyin-portfolio/">
-          🌐 View Live Website
-        </a>
-        &nbsp;|&nbsp;
-        <a href="https://github.com/linyuyin03/yuyin-portfolio">
-          💻 GitHub Repository
-        </a>
-      </p>
-    </div>
+[🌐 View Live Website](https://linyuyin03.github.io/yuyin-portfolio/) | [💻 GitHub Repository](https://github.com/linyuyin03/yuyin-portfolio)
 
-    <div style="width: 400px;">
-      <h3>🗺️ Geo Journey</h3>
-      <p>
-        Interactive web map built with Leaflet to visualize important locations
-        from my academic and professional journey.
-      </p>
+### 🗺️ Geo Journey
 
-      <p>
-        <a href="https://linyuyin03.github.io/yuyin-geo-journey/">
-          🌐 View Live Website
-        </a>
-        &nbsp;|&nbsp;
-        <a href="https://github.com/linyuyin03/yuyin-geo-journey">
-          💻 GitHub Repository
-        </a>
-      </p>
-    </div>
+Interactive web map built with Leaflet to visualize important locations from my academic and professional journey.
 
-  </div>
+[🌐 View Live Website](https://linyuyin03.github.io/yuyin-geo-journey/) | [💻 GitHub Repository](https://github.com/linyuyin03/yuyin-geo-journey)
+
 </details>
 </details>
 
