@@ -41,15 +41,44 @@ Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engi
 <!-- Featured Projects -->
 <details open>
   <summary><h2>🚀 Featured Projects</h2></summary>
+  <!-- Featured Projects -->
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- 将下面两个仓库替换为你想“置顶”的真实仓库 -->
-    <a href="https://github.com/linyuyin03/awesome-rag-platform">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=linyuyin03&repo=awesome-rag-platform&theme=react&hide_border=true" alt="awesome-rag-platform" style="width:400px;" />
-    </a>
-    <a href="https://github.com/linyuyin03/realtime-collab-web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=linyuyin03&repo=realtime-collab-web&theme=react&hide_border=true" alt="realtime-collab-web" style="width:400px;" />
-    </a>
+
+    <div style="width: 400px;">
+      <h3>🌐 Personal Portfolio Website</h3>
+      <p>
+        Personal portfolio showcasing my background, technical skills,
+        experience, projects, and interactive Geo Journey map.
+      </p>
+      <a href="https://linyuyin03.github.io/yuyin-portfolio/">
+        🔗 View Live Website
+      </a>
+      |
+      <a href="https://github.com/linyuyin03/yuyin-portfolio">
+        GitHub Repository
+      </a>
+    </div>
+
+    <div style="width: 400px;">
+      <h3>🗺️ Geo Journey</h3>
+      <p>
+        Interactive web map built with Leaflet to visualize locations
+        from my academic and professional journey.
+      </p>
+      <a href="https://linyuyin03.github.io/yuyin-geo-journey/">
+        🔗 View Live Website
+      </a>
+      |
+      <a href="https://github.com/linyuyin03/yuyin-geo-journey">
+        GitHub Repository
+      </a>
+    </div>
+
   </div>
+</details>
 </details>
 
 <br/>
