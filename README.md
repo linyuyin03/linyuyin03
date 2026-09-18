@@ -42,17 +42,17 @@ Actively seeking <b>Summer 2026</b> Software Engineering / Machine Learning Engi
 <details open>
 <summary><h2>🚀 Featured Projects</h2></summary>
 
-### 🌐 Personal Portfolio Website
+### 🌐 Yuyin Portfolio
 
-Personal portfolio showcasing my background, technical skills, experience, projects, and interactive Geo Journey map.
+Personal portfolio website showcasing my background, technical skills, experience, projects, and interactive web features.
 
-[🌐 View Live Website](https://linyuyin03.github.io/yuyin-portfolio/) | [💻 GitHub Repository](https://github.com/linyuyin03/yuyin-portfolio)
+[💻 GitHub Repository](https://github.com/linyuyin03/yuyin-portfolio)
 
-### 🗺️ Geo Journey
+### 💻 Personal Website
 
-Interactive web map built with Leaflet to visualize important locations from my academic and professional journey.
+A personal website project showcasing my web development work and portfolio content.
 
-[🌐 View Live Website](https://linyuyin03.github.io/yuyin-geo-journey/) | [💻 GitHub Repository](https://github.com/linyuyin03/yuyin-geo-journey)
+[💻 GitHub Repository](https://github.com/linyuyin03/personal-website)
 
 </details>
 </details>
