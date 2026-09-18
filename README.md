@@ -69,18 +69,29 @@ A personal website project showcasing my web development work and portfolio cont
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=linyuyin03&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
 
-  <!-- GitHub Profile Stats & Top Languages -->
-  <h3>💻 GitHub Profile Stats</h3>
-  <p align="center">
-    <img alt="Yuyin Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=linyuyin03&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" />
-    <img alt="Yuyin Lin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyuyin03&langs_count=8&layout=compact&theme=react&hide_border=true" />
-  </p>
+ <!-- GitHub Profile Stats & Top Languages -->
+<h3>💻 GitHub Profile Stats</h3>
 
-  <!-- Activity Graph -->
-  <h3>⚡ Activity Graph</h3>
-  <p align="center">
-    <img alt="Yuyin Lin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=linyuyin03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=linyuyin03&show_icons=true&theme=react&hide_border=true"
+    alt="Yuyin Lin's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyuyin03&layout=compact&theme=react&hide_border=true"
+    alt="Yuyin Lin's Top Languages"
+  />
+</p>
+
+<!-- Activity Graph -->
+<h3>⚡ Activity Graph</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=linyuyin03&theme=react-dark&hide_border=true"
+    alt="Yuyin Lin's Activity Graph"
+  />
+</p>
 </details>
 
 <br/>
